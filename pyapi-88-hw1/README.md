@@ -1,2 +1,2 @@
-# About
-Netology PYAPI-88 Homework #1. OOP: inheritance, encapsulation and polymorphism.
+# ООП: наследование, инкапсуляция и полиморфизм
+- [Домашнее задание к лекции «Объекты и классы. Инкапсуляция, наследование и полиморфизм»](https://github.com/netology-code/py-homeworks-basic/tree/master/6.classes)

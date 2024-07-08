@@ -1,2 +1,2 @@
-# About
-Netology PYAPI-88 Homework #2. Opening and reading a file, writing to a file.
+# Открытие и чтение файла, запись в файл
+- [Домашнее задание к лекции «Открытие и чтение файла, запись в файл»](https://github.com/netology-code/py-homeworks-basic/tree/master/7.files)
